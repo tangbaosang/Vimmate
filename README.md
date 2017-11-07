@@ -1,1 +1,5 @@
-# tangbao-s-vimrc
+# tangbao's vimrc
+
+---
+
+just so so 
